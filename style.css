@@ -23,6 +23,7 @@
 /* ---------------------------------navbar end--------------------------------- */
 
 
+
 /* ---------------------------------slider section start--------------------------------- */
 .carousel-indicators [data-bs-target]{
     border-radius: 50% !important;
@@ -38,6 +39,7 @@
     background-color: rgb(182, 180, 180);
     border-radius: 50%;
     right: 40px !important;
+    background-color: rgb(0, 0, 0) !important;
 }
 .carousel-control-prev{
     color: black !important;
@@ -47,8 +49,14 @@
     background-color: rgb(182, 180, 180);
     border-radius: 50%;
     left: 40px !important;
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.carousel-caption{
+    background: linear-gradient(180deg,transparent 0,transparent 0,rgba(0,0,0,.35) 35.5%,rgba(0,0,0,.1)) !important;
 }
 /* ---------------------------------slider section end--------------------------------- */
+
 
 
 /* ---------------------------------athlete section start--------------------------------- */
@@ -63,6 +71,7 @@
 /* ---------------------------------athlete section end--------------------------------- */
 
 
+
 /* ---------------------------------featured section start--------------------------------- */
 .featured-title{
     position: absolute;
@@ -70,3 +79,8 @@
     bottom: 100px;
 }
 /* ---------------------------------featured section end--------------------------------- */
+
+
+
+/* ---------------------------------Shop nike section start--------------------------------- */
+/* ---------------------------------Shop nike section end--------------------------------- */
